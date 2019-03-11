@@ -1,3 +1,6 @@
 [submodule "JS"]
 	path = JS
 	url = https://github.com/jjw22new/SimpleHybrid-JS.git
+[submodule "Android"]
+	path = Android
+	url = https://github.com/jjw22new/SimpleHybrid-Android.git
