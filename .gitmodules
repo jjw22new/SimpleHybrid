@@ -4,3 +4,6 @@
 [submodule "Android"]
 	path = Android
 	url = https://github.com/jjw22new/SimpleHybrid-Android.git
+[submodule "iOS"]
+	path = iOS
+	url = https://github.com/jjw22new/SimpleHybrid-iOS.git
